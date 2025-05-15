@@ -1,9 +1,12 @@
 # Segmenting the Market:
 A Two-Stage Random Forest Approach for Predicting Prices in Skewed and Heterogeneous Secondhand Car Data
-
 ---
 
-This thesis is submitted in partial fulfillment of the requirements for the degree of master of science in data science & society at the school of humanities and digital sciences of tilburg university
+Thesis submitted in partial fulfillment of the requirements for the degree of Master of Science in Data Science & Society at the School of Humanities and Digital Sciences of Tilburg University
+
+--- 
+This repository you will find the code and data used for my thesis project. The project focuses on predicting the secondhand car prices using a two-stage and single-stage approach.  
+
 
 ## 📁 Repository Structure:
 
